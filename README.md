@@ -1,1 +1,1 @@
-# Parallax
+# This is a simple and responsive Parallax Scrolling Website built using HTML and CSS. The project demonstrates how to create smooth scrolling effects and visual depth by layering elements, all without using JavaScript.
